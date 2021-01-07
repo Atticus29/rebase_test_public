@@ -2,3 +2,6 @@ dog
 cat
 coral
 bee
+ant
+beetle
+human

@@ -3,3 +3,5 @@ lettuce
 asparagus
 beet
 broccoli
+kale
+mustard
