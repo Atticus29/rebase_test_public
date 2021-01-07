@@ -1,2 +1,5 @@
 pepper
+lettuce
+asparagus
+beet
 broccoli
